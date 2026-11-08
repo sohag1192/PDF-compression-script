@@ -56,7 +56,7 @@ FOLDER_PATH = r"C:\Users\sohag\Downloads\Telegram Desktop"
 ### 4. Run the Script
 
 ```bash
-python compressor.py
+python pdf_dir.py
 
 ```
 
